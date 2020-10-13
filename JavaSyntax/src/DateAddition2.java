@@ -21,7 +21,7 @@ public class DateAddition2 {
         // TODO Auto-generated method stub
 System.out.println("In Application");
         Date d = "2012-01-14";
-        sdfgjhs
+        fuihjkk
         LocalDate localDate = d.toInstant().atZone(ZoneId.systemDefault()).toLocalDate();
         String DateFormatted = "";
         if (localDate.getMonthValue() < 10) {
